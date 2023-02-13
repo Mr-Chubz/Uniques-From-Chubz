@@ -67,7 +67,7 @@
 	},
 {
 		"name": "Landwehr",
-		"unitType": "Infantey",
+		"unitType": "Infantry",
 		"replaces": "Rifleman",
 		"uniqueTo": "Austria",
 		"movement": 2,
@@ -720,7 +720,7 @@
 	},
 {
 		"name": "Koa",
-		"unitType": "Infanry",
+		"unitType": "Infantry",
 		"uniqueTo": "Polynesia",
 		"replaces": "Swordsman",
 		"movement": 2,
