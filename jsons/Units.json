@@ -3,7 +3,7 @@
 //Units
 {
 		"name": "Mamluk",
-		"unitType": "Sword",
+		"unitType": "Infantry",
 		"replaces": "Longswordsman",
 		"uniqueTo": "Arabia",
 		"movement": 3,
@@ -18,7 +18,7 @@
 	},
 {
 		"name": "Pucara",
-		"unitType": "Fighter",
+		"unitType": "Air Fighter",
 		"replaces": "Fighter",
 		"uniqueTo": "Argentina",
 		"movement": 1,
@@ -36,7 +36,7 @@
 	},
 {
 		"name": "Azatavrear",
-		"unitType": "Mounted",
+		"unitType": "Heavy Cavalry",
 		"replaces": "Knight",
 		"uniqueTo": "Armenia",
 		"movement": 3,
@@ -51,7 +51,7 @@
 	},
 {
 		"name": "Assyrian Chariot",
-		"unitType": "Archery",
+		"unitType": "Ranged Cavalry",
 		"replaces": "Chariot Archer",
 		"uniqueTo": "Assyria",
 		"movement": 5,
@@ -67,7 +67,7 @@
 	},
 {
 		"name": "Landwehr",
-		"unitType": "Gunpowder",
+		"unitType": "Infantey",
 		"replaces": "Rifleman",
 		"uniqueTo": "Austria",
 		"movement": 2,
@@ -81,7 +81,7 @@
 	}
 {
 		"name": "Eagle Warrior",
-		"unitType": "Sword",
+		"unitType": "Infantry",
 		"uniqueTo": "Aztecs",
 		"replaces": "Swordsman",
 		"movement": 2,
@@ -96,7 +96,7 @@
 	},
 {
 		"name": "Sabum Kibittum",
-		"unitType": "Sword",
+		"unitType": "Infantry",
 		"replaces": "Spearman",
 		"uniqueTo": "Babylon",
 		"movement": 3,
@@ -110,7 +110,7 @@
 	},
 {
 		"name": "Bandeirante",
-		"unitType": "Gunpowder",
+		"unitType": "Infantry",
 		"replaces": "Musketman",
 		"uniqueTo": "Brazil",
 		"movement": 2,
@@ -124,7 +124,7 @@
 	},
 {
 		"name": "Proniar",
-		"unitType": "Sword",
+		"unitType": "Infantry",
 		"replaces": "Longswordsman",
 		"uniqueTo": "Bulgaria",
 		"movement": 3,
@@ -139,7 +139,7 @@
 	},
 {
 		"name": "Numidian",
-		"unitType": "Archery",
+		"unitType": "Ranged Heavy",
 		"replaces": "Chariot Archer",
 		"uniqueTo": "Carthage",
 		"movement": 4,
@@ -155,7 +155,7 @@
 	},
 {
 		"name": "Carpentom",
-		"unitType": "Mounted",
+		"unitType": "Light Cavalry",
 		"uniqueTo": "Celts",
 		"replaces": "Horseman",
 		"movement": 4,
@@ -171,7 +171,7 @@
 	},
 {
 		"name": "Pirate",
-		"unitType": "Ranged Water",
+		"unitType": "Naval Ranged",
 		"uniqueTo": "Champa",
 		"replaces": "Galleass",
 		"movement": 4,
@@ -187,7 +187,7 @@
 	},
 {
 		"name": "Buin",
-		"unitType": "Gunpowder",
+		"unitType": "Infantry",
             "uniqueTo": "Chile",
             "replaces": "Rifleman",
 		"movement": 2,
@@ -201,7 +201,7 @@
 	},
 {
 		"name": "Dao Swordsman",
-		"unitType": "Sword",
+		"unitType": "Infantry",
 		"replaces": "Longswordsman",
 		"uniqueTo": "China",
 		"movement": 2,
@@ -217,7 +217,7 @@
 {
 		"name": "Llanero",
 		"replaces": "Cavalry",
-		"unitType": "Mounted",
+		"unitType": "Heavy Cavalry",
 		"movement": 4,
 		"strength": 35,
 		"cost": 200,
@@ -232,7 +232,7 @@
 	},
 {
 		"name": "Longship",
-		"unitType": "Melee Water",
+		"unitType": "Naval Melee",
 		"replaces": "Caravel",
 		"uniqueTo": "Denmark",
 		"movement": 5,
@@ -247,7 +247,7 @@
 	},
 {
 		"name": "BAE",
-		"unitType": "Melee Water",
+		"unitType": "Naval Melee",
 		"replaces": "Ironclad",
 		"uniqueTo": "Ecuador",
 		"movement": 3,
@@ -263,7 +263,7 @@
 	},
 {
 		"name": "Khopesh",
-		"unitType": "Sword",
+		"unitType": "Infantry",
 		"replaces": "Swordsman",
 		"uniqueTo": "Egypt",
 		"movement": 2,
@@ -279,7 +279,7 @@
 	},
 {
 		"name": "Macheteer",
-		"unitType": "Scout",
+		"unitType": "Recon",
 		"replaces": "Scout",
 		"uniqueTo": "El Salvador",
 		"movement": 2,
@@ -293,7 +293,7 @@
 	},
 {
 		"name": "Redcoat",
-		"unitType": "Gunpowder",
+		"unitType": "Anti Cavalry",
             "uniqueTo": "England",
             "replaces": "Rifleman",
 		"movement": 2,
@@ -308,7 +308,7 @@
 	},
 {
 		"name": "Oromo",
-		"unitType": "Sword",
+		"unitType": "Infantry",
             "uniqueTo": "Ethiopia",
             "replaces": "Musketman",
 		"movement": 2,
@@ -322,7 +322,7 @@
 	},
 {
 		"name": "Gribeauval",
-		"unitType": "Siege",
+		"unitType": "Siege Ranged",
 		"replaces": "Cannon",
 		"uniqueTo": "France",
 		"movement": 2,
@@ -337,7 +337,7 @@
 	},
 	{
 		"name": "Brigantine",
-		"unitType": "Ranged Water",
+		"unitType": "Naval Ranged",
 		"replaces": "Galleass",
 		"uniqueTo": "Republic of Genoa",
 		"movement": 4,
@@ -361,8 +361,7 @@
 	},
 {
 		"name": "Stormtrooper",
-		"unitType": "Gunpowder",
-		"replaces": "Great War Infantry",
+		"unitType": "Siege Melee",
 		"uniqueTo": "Germany",
 		"movement": 2,
 		"strength": 55,
@@ -375,7 +374,7 @@
 	},
 {
 		"name": "Hellenic Trireme",
-		"unitType": "Melee Water",
+		"unitType": "Naval Melee",
 		"uniqueTo": "Greece",
 		"replaces": "Trireme",
 		"movement": 4,
@@ -392,7 +391,7 @@
 		"name": "Mounted Javelinman",
 		"uniqueTo": "Himyar",
 		"replaces": "Chariot Archer",
-		"unitType": "Archery",
+		"unitType": "Ranged Cavalry",
 		"movement": 4,
 		"strength": 6,
 		"rangedStrength": 10,
@@ -409,7 +408,7 @@
 		"name": "Huszar",
 		"uniqueTo": "Hungary",
 		"replaces": "Lancer",
-		"unitType": "Mounted",
+		"unitType": "Counter Cavalry",
 		"movement": 5,
 		"strength": 28,
 		"cost": 185,
@@ -423,7 +422,7 @@
 	},
 {
 		"name": "Chasqui",
-		"unitType": "Scout",
+		"unitType": "Recon",
 		"uniqueTo": "Inca",
 		"replaces": "Scout",
 		"movement": 3,
@@ -436,7 +435,7 @@
 	},
 	{
 		"name": "Agni-V",
-		"unitType": "Atomic Bomber",
+		"unitType": "Air Atomic Bomber",
 		"replaces": "Atomic Bomb",
 		"uniqueTo": "India",
 		"movement": 1,
@@ -455,7 +454,7 @@
 	},
 {
 		"name": "Kapal Jung",
-		"unitType": "Ranged Water",
+		"unitType": "Naval Ranged",
 		"replaces": "Galleass",
 		"uniqueTo": "Indonesia",
 		"movement": 3,
@@ -469,7 +468,7 @@
 	},
 {
 		"name": "Iroquois Warrior",
-		"unitType": "Sword",
+		"unitType": "Infantry",
 		"replaces": "Longswordsman",
 		"uniqueTo": "Iroquois",
 		"movement": 2,
@@ -482,7 +481,7 @@
 	},
 {
 		"name": "Sho't Kal",
-		"unitType": "Armored",
+		"unitType": "Heavy Cavalry",
 		"replaces": "Tank",
 		"uniqueTo": "Israel",
 		"movement": 5,
@@ -505,7 +504,7 @@
 	},
 {
 		"name": "Gungdo Archer",
-		"unitType": "Archery",
+		"unitType": "Ranged Heavy",
 		"replaces": "Crossbowman",
 		"uniqueTo": "Korea",
 		"movement": 2,
@@ -520,7 +519,7 @@
 	},
 {
 		"name": "Samogitian Soldier",
-		"unitType": "Sword",
+		"unitType": "Infantry",
 		"uniqueTo": "Lithuania",
 		"replaces": "Pikeman",
 		"movement": 2,
@@ -535,7 +534,7 @@
 	},
 {
 		"name": "Vytis",
-		"unitType": "Mounted",
+		"unitType": "Heavy Cavalry",
 		"uniqueTo": "Lithuania",
 		"replaces": "Knight",
 		"movement": 4,
@@ -560,7 +559,7 @@
 	},
 {
 		"name": "Trigarante",
-		"unitType": "Gunpowder",
+		"unitType": "Infantry",
 		"replaces": "Rifleman",
 		"uniqueTo": "Mexico",
 		"movement": 2,
@@ -574,7 +573,7 @@
 	},
 {
 		"name": "Golden Horde",
-		"unitType": "Mounted",
+		"unitType": "Counter Cavalry",
 		"replaces": "Lancer",
 		"uniqueTo": "Mongolia",
 		"movement": 5,
@@ -590,7 +589,7 @@
 	},
 {
 		"name": "Goumier",
-		"unitType": "Gunpowder",
+		"unitType": "Infantry",
 		"replaces": "Great War Infantry",
 		"uniqueTo": "Morocco",
 		"movement": 2,
@@ -607,7 +606,7 @@
 		"name": "Nok Warrior",
 		"replaces": "Swordsman",
 		"uniqueTo": "Nok",
-		"unitType": "Sword",
+		"unitType": "Infantry",
 		"movement": 2,
 		"strength": 14,
 		"cost": 60,
@@ -621,7 +620,7 @@
 	},
 {
 		"name": "Drakkar",
-		"unitType": "Melee Water",
+		"unitType": "Naval Melee",
 		"replaces": "Caravel",
 		"uniqueTo": "Norway",
 		"movement": 5,
@@ -635,10 +634,10 @@
 		"attackSound": "cannon"
 	},
 {
-		"name": "Spear Thrower",
+		"name": "Olmec Spear Thrower",
 		"replaces": "Archer",
 		"uniqueTo": "The Olmec",
-		"unitType": "Archery",
+		"unitType": "Ranged Heavy",
 		"movement": 2,
 		"strength": 5,
 		"range": 1,
@@ -652,7 +651,7 @@
 {
 		"name": "First of Line",
 		"uniqueTo": "Paraguay",
-		"unitType": "Gunpowder",
+		"unitType": "Anti Cavalry",
 		"movement": 2,
 		"strength": 30,
 		"cost": 100,
@@ -665,7 +664,7 @@
 	},
 {
 		"name": "Clibanarii",
-		"unitType": "Mounted",
+		"unitType": "Light Cavalry",
 		"uniqueTo": "Persia",
 		"replaces": "Horseman",
 		"movement": 3,
@@ -682,7 +681,7 @@
 	},
 {
 		"name": "Rabona",
-		"unitType": "Scout",
+		"unitType": "Recon",
 		"uniqueTo": "Peru",
 		"replaces": "Scout",
 		"movement": 2,
@@ -706,7 +705,7 @@
 	},
 {
 		"name": "Uhlan",
-		"unitType": "Mounted",
+		"unitType": "Heavy Cavalry",
 		"uniqueTo": "Poland",
 		"replaces": "Cavalry",
 		"movement": 5,
@@ -721,7 +720,7 @@
 	},
 {
 		"name": "Koa",
-		"unitType": "Sword",
+		"unitType": "Infanry",
 		"uniqueTo": "Polynesia",
 		"replaces": "Swordsman",
 		"movement": 2,
@@ -737,7 +736,7 @@
 	},
 {
 		"name": "Galleon",
-		"unitType": "Melee Water",
+		"unitType": "Naval Melee",
 		"replaces": "Privateer",
 		"uniqueTo": "Portugal",
 		"movement": 4,
@@ -750,7 +749,7 @@
 	},
 {
 		"name": "Auxilliary",
-		"unitType": "Mounted",
+		"unitType": "Light Cavalry",
 		"uniqueTo": "Rome",
 		"replaces": "Horseman",
 		"movement": 4,
@@ -767,7 +766,7 @@
 	},
 {
 		"name": "Streltsy",
-		"unitType": "Gunpowder",
+		"unitType": "Infantry",
 		"replaces": "Musketman",
 		"uniqueTo": "Russia",
 		"movement": 2,
@@ -781,7 +780,7 @@
 	},
 {
 		"name": "Amazon",
-		"unitType": "Mounted",
+		"unitType": "Light Cavalry",
 		"uniqueTo": "Scythia",
 		"replaces": "Horseman",
 		"movement": 5,
@@ -797,8 +796,8 @@
 	},
 {
 		"name": "Saka Horse Archer",
-		"unitType": "Archery",
-		"replaces": "Composite Bowman",
+		"unitType": "Ranged Cavalry",
+		"replaces": "Horse Archer",
 		"uniqueTo": "Scythia",
 		"unitType": "Archery",
 		"movement": 3,
@@ -813,7 +812,7 @@
 	},
 {
 		"name": "Shoshone Warrior",
-		"unitType": "Sword",
+		"unitType": "Infantry",
 		"replaces": "Musketman",
 		"uniqueTo": "Shoshone",
 		"movement": 2,
@@ -827,7 +826,7 @@
 	},
 {
 		"name": "Ballista Elephant",
-		"unitType": "Siege",
+		"unitType": "Siege Ranged",
 		"uniqueTo": "Siam",
 		"replaces": "Trebuchet",
 		"movement": 3,
@@ -841,7 +840,7 @@
 	},
 {
 		"name": "Nim",
-		"unitType": "Archery",
+		"unitType": "Ranged Heavy",
 		"uniqueTo": "Sumeria",
 		"replaces": "Archer",
 		"movement": 3,
@@ -864,7 +863,7 @@
 	},
 {
 		"name": "Hittite Garrison",
-		"unitType": "Sword",
+		"unitType": "Infantry",
 		"uniqueTo": "The Hittites",
 		"replaces": "Swordsman",
 		"movement": 2,
@@ -880,7 +879,7 @@
 	},
 	{
 		"name": "Cur",
-		"unitType": "Mounted",
+		"unitType": "Heavy Cavalry",
 		"uniqueTo": "The Huns",
 		"replaces": "Great General",
 		"movement": 4,
@@ -893,7 +892,7 @@
 	},
 {
 		"name": "Ph'kak",
-		"unitType": "Sword",
+		"unitType": "Infantry",
 		"uniqueTo": "The Khmer",
 		"replaces": "Longswordsman",
 		"movement": 2,
@@ -908,7 +907,7 @@
 	},
 {
 		"name": "Obsidian Warrior",
-		"unitType": "Sword",
+		"unitType": "Infantry",
 		"uniqueTo": "The Maya",
 		"replaces": "Warrior",
 		"movement": 2,
@@ -921,7 +920,7 @@
 	},
 {
 		"name": "Halberdman",
-		"unitType": "Sword",
+		"unitType": "Anti Cavalry",
 		"replaces": "Longswordsman",
 		"uniqueTo": "The Netherlands",
 		"movement": 2,
@@ -937,7 +936,7 @@
 	},
 {
 		"name": "Great Bombard",
-		"unitType": "Siege",
+		"unitType": "Siege Ranged",
 		"replaces": "Trebuchet",
 		"uniqueTo": "The Ottomans",
 		"movement": 2,
@@ -965,7 +964,7 @@
 	},
 {
 		"name": "Tiuna",
-		"unitType": "Gunpowder",
+		"unitType": "Infantry",
 		"replaces": "Infantry",
 		"uniqueTo": "Venezuela",
 		"movement": 3,
@@ -979,7 +978,7 @@
 	},
 {
 		"name": "Cam Quan",
-		"unitType": "Sword",
+		"unitType": "Infantry",
 		"replaces": "Longswordsman",
 		"uniqueTo": "Viet Nam",
 		"movement": 2,
